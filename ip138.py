@@ -15,5 +15,3 @@ pattern = re.compile(r'<li>(.*?)</li>',re.S)
 items = re.findall(pattern,urls.text)
 for item in items:
     print(item)
-
-print('1')
