@@ -1,4 +1,3 @@
-# -*- encoding: utf8-*-
 import requests
 import re
 print("输入IP地址或者域名：")
